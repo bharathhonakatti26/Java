@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class variable {
     public static void main(String[] args) { // Fixed typo in 'agrs' to 'args'
         Scanner sc = new Scanner(System.in);
 
