@@ -1,5 +1,5 @@
 
-public class Patterns_Questions{
+public class Patterns_Ques{
     public static void main(String[] args){
 
         //solid rectangle pattern
